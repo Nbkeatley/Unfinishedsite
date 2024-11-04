@@ -43,10 +43,12 @@ h1 {
 @media (max-width: 768px) {
     h1 {
         font-size: 28px;
+        text-align: center;
     }
 
     .tagline .contact, .location{
         font-size: 14px;
+        text-align: center;
     }
 
 }
